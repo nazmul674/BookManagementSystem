@@ -1,0 +1,51 @@
+
+nav
+{
+	float: right;
+	word-spacing: 30px;
+	padding: 20px;
+}
+nav li 
+{
+	display: inline-block;
+	line-height: 80px;
+}
+
+.wrapper
+{
+	height: 660px;
+	width: 1360px;
+	/*background-color: red;*/
+}
+.wrapper1
+{
+	height: 170px;
+	width: 1360px;
+	/*background-color: red;*/
+}
+header
+{
+	height: 150px;
+	width: 1460px;
+	background-color: #607d8b;
+	padding: 10px;
+}
+.logo
+{
+	float :left;
+	padding-left: 20px;
+
+}
+
+.book
+{
+    width: 400px;
+    margin: 0px auto;
+}
+
+.form-control
+{
+    background-color: aqua;
+    color: white;
+    height: 50px;
+}
